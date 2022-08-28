@@ -1,0 +1,81 @@
+body{
+          margin: 0;
+          padding: 0;
+          height: 90vh;
+          background-color: #277bc0;
+      }
+      
+      
+      h1{
+         
+          font-family: Arial, Helvetica, sans-serif;
+          padding-left: 40%;
+          padding-top: 2%;
+          color:#000 ;
+       
+      }
+      .container{
+          background-color: #fff;
+          margin: 90px 20% 20px 20%;
+          margin-bottom: 20%;
+          align-items: center;
+          padding: 20px 40px 20px 40px;
+          height: 70vh;
+          display: flex;
+          width: 120vh;
+          border-radius: 16px;
+
+
+      }
+      input{
+          font-family: Arial, Helvetica, sans-serif;
+          border: solid 3px #277bc0;
+        padding: 6px;
+       margin: 10px;
+       font-size: large;
+      }
+      label{
+          font-size: medium;  
+      }
+      input:hover{
+      
+         border: solid 3px #277bc0;
+         box-shadow: 2px 2px 10px 2px #277bc0 ;
+      }
+      /*.form{
+         padding-left: 18%;
+         top: 30px;
+         height: 80vh;
+          margin: 5px 10px 5px 10px  ;
+          background-color: #fff;
+          width:50%
+          
+      }*/
+      
+      .form{
+          font-size: medium;
+          font-family: Arial, Helvetica, sans-serif;
+          margin: 0px 5% 0px 5% ;
+          background-color: #e7f6f2;
+          padding: 20px;
+          box-shadow: 2px 2px 10px 2px ;
+      }
+      button {
+          padding: 5px 8px 5px 8px ;
+          border: 2px solid  #277bc0;
+          font-size: larger;
+          font-family: Arial, Helvetica, sans-serif;
+      }
+      button:hover{
+          background-color: #277bc0 ;
+          color: #fff;
+          border: 2px solid #fff;
+          box-shadow: 2px 2px 10px 2px ;
+      }
+      #submit{
+          font-size: 20px;
+          margin-left: 170px;
+         display: flex;
+         margin-top: 10px;
+      }
+      
